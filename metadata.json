@@ -1,0 +1,6 @@
+{
+  "name": "Linha de Trincheiras 1944: Defesa Tática",
+  "description": "Jogo de estratégia e defesa de torres da Segunda Guerra Mundial com trincheiras, metralhadoras sentinelas, snipers, artilharia e tanques blindados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
